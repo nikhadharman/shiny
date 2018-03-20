@@ -1,0 +1,7 @@
+Fleet,Class,Vessel,Ballast Draft,Design Draft,Max Speed, MCR  ,YOB,LOA,B, Displacement ,Trial Draft ,Summer Draft, TEU ,ADA,PM
+Container,Container,A1,6,12,22.2,31920,2004,231,32.2,56983,6,12,3534,N,Y
+Container,Container,A2,6,12,22.2,31920,2004,231,32.2,56983,6,12,3534,N,Y
+Tanker,Tanker,T1,5,11,14,4860,2015,149.93,24.6,22413,9.008,,,N,Y
+Container,Container,A3,7,14.5,25.6,57100,2003,310,40,112639.5,7.093,14.5,,Y,Y
+Container,Container,DEMO,7,14.5,25.6,57100,2003,310,40,112639.5,7.093,14.5,,Y,N
+Container,Container,DEMO 2,5,10.99,14.8,7860,2011,186.4,27.8,45345,5.008,10.998,,N,Y

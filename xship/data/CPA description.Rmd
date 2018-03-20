@@ -1,0 +1,19 @@
+---
+title: "DESCRIPTION: CHARTER PARTY ANALYSIS"
+output: html_document
+
+---
+
+
+#                                                          Voyage Audit Report Calculations
+
+
+![](CPA.PNG)
+
+
+
+
+
+
+
+

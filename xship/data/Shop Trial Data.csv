@@ -1,0 +1,17 @@
+FLEET,CLASS,VESSEL NAME,Engine Load %,Power (kW),SFOC Measured,SFOC Corrected (ISO)
+Container,Container,A1,75,23940,171.8,171.3
+Container,Container,A1,90,28728,172.8,172.1
+Container,Container,A1,100,31876,174.6,173.8
+Container,Container,A2,75,23940,171.8,171.3
+Container,Container,A2,90,28728,172.8,172.1
+Container,Container,A2,100,31876,174.6,173.8
+Tanker,Tanker,T1,50,2442,180.4,176.6
+Tanker,Tanker,T1,70,3653,173.9,173.3
+Tanker,Tanker,T1,90,4382,173.5,173.1
+Tanker,Tanker,T1,100,4873,175.4,175
+Container,Container,A3,25,14269,188.2,186.4
+Container,Container,A3,50,28537,175.9,174.1
+Container,Container,A3,75,42806,172,169.3
+Container,Container,A3,90,51367,173.6,171.4
+Container,Container,A3,100,57075,176.5,173.7
+Container,Container,A3,110,62782,179.9,177.1

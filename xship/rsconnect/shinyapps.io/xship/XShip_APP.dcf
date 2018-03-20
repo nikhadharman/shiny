@@ -1,0 +1,11 @@
+name: XShip_APP
+title:
+account: xship
+server: shinyapps.io
+appId: 153851
+bundleId: 1009876
+url: https://xship.shinyapps.io/XShip_APP/
+when: 1507093898.32305
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: data/~$DATA.xlsx

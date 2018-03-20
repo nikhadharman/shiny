@@ -1,0 +1,22 @@
+Fleet,Class,Vessel ,Speed ,Sea Trial Power
+Container,Container,A1,21,9800
+Container,Container,A1,22,11400
+Container,Container,A1,23,13200
+Container,Container,A1,24,15200
+Container,Container,A1,25,17400
+Container,Container,A1,26,19800
+Container,Container,A1,27,22200
+Container,Container,A2,21,9800
+Container,Container,A2,22,11400
+Container,Container,A2,23,13200
+Container,Container,A2,24,15200
+Container,Container,A2,25,17400
+Container,Container,A2,26,19800
+Container,Container,A2,27,22200
+Tanker,Tanker,T1,11.83,2418
+Tanker,Tanker,T1,13.69,3736
+Tanker,Tanker,T1,14.57,4306
+Container,Container,A3,24.8,36291
+Container,Container,A3,25.5,41857
+Container,Container,A3,26.4,49164
+Container,Container,A3,27,54400

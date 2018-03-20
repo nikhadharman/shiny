@@ -1,0 +1,11 @@
+name: demoapp
+title: demoapp
+account: navgathi
+server: shinyapps.io
+appId: 155992
+bundleId: 706754
+url: https://navgathi.shinyapps.io/demoapp/
+when: 1486699089.31118
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|data/~$DATA.xlsx
